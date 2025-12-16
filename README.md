@@ -1,6 +1,4 @@
-<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
-
-# `qemu-shell-scripts`
+# <p style="font-size:30px><code>qemu-shell-scripts</code></p>
 *by, clangjesus*
 
 This is a collection of some shell scripts for QEMU. These scripts can be modified, used for
