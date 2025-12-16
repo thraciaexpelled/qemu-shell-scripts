@@ -1,5 +1,7 @@
-# `qemu-shell-scripts`
-*by, clangjesus*
+<h1>
+	`qemu-shell-scripts`
+	*by, clangjesus*
+</h1>
 
 This is a collection of some shell scripts for QEMU. These scripts can be modified, used for
 both personal and commercial purposes with or without citing the author.
@@ -43,4 +45,4 @@ If you want to add your own shell script, create it, and submit a PR.
 >	 # ... insert more arguments as needed ...
 > ```
 
-<h1 style="text-align: center">clangjesus</h1>
+<h1 align="center">clangjesus</h1>
