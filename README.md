@@ -1,7 +1,7 @@
-<h1>
-	`qemu-shell-scripts`
-	*by, clangjesus*
-</h1>
+<span>
+	<h1><code>qemu-shell-scripts</code></h1>
+	<i>by, clangjesus</i>
+</span>
 
 This is a collection of some shell scripts for QEMU. These scripts can be modified, used for
 both personal and commercial purposes with or without citing the author.
@@ -26,7 +26,7 @@ If you want to add your own shell script, create it, and submit a PR.
 > set -e
 > 
 > ISO=$1
-> DISK=""#!/usr/bin/env bash
+> DISK=""
 >
 > set -e
 > 
