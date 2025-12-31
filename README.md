@@ -11,7 +11,7 @@ If you want to add your own shell script, create it, and submit a PR.
 > The file structure of the shell script MUST BE AS IT FOLLOWS:
 > ```
 > -> qemu-shell-scripts
->    -> <os>-<os type (distro name, etc..)-<arch>
+>    -> <os>-<os type (distro name, etc..)>-<arch>
 >	-> ./run.sh
 > ```
 
