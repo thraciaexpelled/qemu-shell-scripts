@@ -1,5 +1,5 @@
-### <p style="font-size:30px"><code>qemu-shell-scripts</code></p>
-*by, clangjesus*
+<p style="font-size:30px" align="center"><code>qemu-shell-scripts</code></p>
+<p align="center"><i>by, clangjesus</i></p>
 
 This is a collection of some shell scripts for QEMU. These scripts can be modified, used for
 both personal and commercial purposes with or without citing the author.
